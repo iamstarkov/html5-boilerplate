@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vladimir Starkov -- developer -- @matmuchrapna
 
 # THANKS
 
-    <name>
+    @h5bp
 
 # TECHNOLOGY COLOPHON
 
